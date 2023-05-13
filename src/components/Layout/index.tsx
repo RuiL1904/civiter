@@ -22,6 +22,7 @@ export function Layout({ children }: IProps) {
             </button>
           }
           placeholder="Where you need trust?"
+          style={{ width: 360 }}
         />
 
         <Avatar
