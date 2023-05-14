@@ -1,5 +1,9 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+## Contract Address
+The contract can be found in the Scroll test net at the following address:
+`0x08892d18CA2299F4BF53c7FFa22E28a3C7Ebb8ef`
+
 ## Getting Started
 
 First, run the development server:
