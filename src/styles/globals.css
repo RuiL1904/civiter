@@ -18,4 +18,5 @@
 body {
   color: var(--color);
   background: var(--background);
+  height: 100vh;
 }

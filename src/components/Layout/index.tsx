@@ -9,7 +9,7 @@ interface IProps {
 
 export function Layout({ children }: IProps) {
   return (
-    <div>
+    <div className="h-full overflow-y-hidden">
       <header className="h-[92px] flex items-center justify-between px-12 py-4">
         <h1>LOGO</h1>
 
@@ -32,7 +32,8 @@ export function Layout({ children }: IProps) {
           size="lg"
         />
       </header>
-      <main>{children}</main>
+
+      <main className="h-full px-9 pb-9">{children}</main>
     </div>
   );
 }
