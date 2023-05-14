@@ -1,4 +1,7 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## Smart contract address
+The smart contract can be found at:
+`0x08892d18CA2299F4BF53c7FFa22E28a3C7Ebb8ef`
 
 ## Getting Started
 
